@@ -34,4 +34,4 @@ docker cp math:./app/file.txt ./
 go run main.go data.txt
 ```
 
-[Audit questions](https://github.com/01-edu/public/tree/master/subjects/math-skills/audit)
+Here you can find the [audit questions](https://github.com/01-edu/public/tree/master/subjects/math-skills/audit).
