@@ -2,10 +2,10 @@
 
 The purpose of this program is to calculate the following:
 
-Average
-Median
-Variance
-Standard Deviation
+1. Average
+2. Median
+3. Variance
+4. Standard Deviation
 
 The program has been built in Golang.
 
