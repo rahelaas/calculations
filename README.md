@@ -1,4 +1,5 @@
-## math-skills
+## Calculations
+(original name math-skills)
 
 The purpose of this program is to calculate the following:
 
